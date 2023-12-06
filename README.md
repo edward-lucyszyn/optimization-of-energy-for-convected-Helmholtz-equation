@@ -1,1 +1,1 @@
-# EI_pollution
+# Optimization of energy for convected Helmholtz equation
